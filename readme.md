@@ -3,7 +3,7 @@
 # Presentación 
 
 > *El ideal es un gesto del espíritu hacia alguna perfección - Jose Ingenieros*
-nota: sigo opinando lo mismo
+- nota: sigo opinando lo mismo
 
 ---------------------------------------
 
